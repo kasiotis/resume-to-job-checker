@@ -3,4 +3,3 @@ sentence-transformers
 PyPDF2
 python-docx
 flask
-PyTorch==1.13.1  # or any compatible version
