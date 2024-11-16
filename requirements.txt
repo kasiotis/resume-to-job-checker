@@ -1,5 +1,4 @@
-torch
-torchvision
+transformers
 sentence-transformers
 streamlit
 PyPDF2
